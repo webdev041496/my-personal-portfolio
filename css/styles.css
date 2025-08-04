@@ -1,0 +1,52 @@
+body {
+    background-image: url("sailing.jpg");
+    font-family: Tahoma, Arial, sans-serif;
+    color: white;
+    margin: 0px;
+}
+
+h1 {
+    color: whitesmoke;
+    font: 32px Garamond, Helvetica, serif;
+    text-align: center;
+}
+
+
+#submit-btn {
+    display: block;
+    background-color: brown;
+    color: white;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.navbar {
+    background-color: black;
+}
+
+.main-header {
+    margin-top: 200px;    
+}
+
+.main-header img {    
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 50%;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    margin-bottom: 1rem;
+}
+
+h2 {
+    margin-bottom: 600px;
+    text-align: center;
+}
+
+h5, address, .contact-method {    
+    background-color: rgba(0, 0, 0, 0.5);
+    font-size: 20px;
+}
+
+
