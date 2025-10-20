@@ -40,13 +40,14 @@ h1 {
 }
 
 h2 {
-    margin-bottom: 600px;
+    margin-bottom: 20px;
     text-align: center;
 }
 
-h5, address, .contact-method {    
+h5, address, .contact-method, .social-links, .description {    
     background-color: rgba(0, 0, 0, 0.5);
     font-size: 20px;
 }
+
 
 
